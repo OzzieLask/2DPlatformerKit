@@ -1,19 +1,19 @@
 fileFormatVersion: 2
-guid: a35270d0cfd944c7cab14ab9400543cc
+guid: 0441aea518b541843bcf210f0a0eb5bc
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7231328931971455594
-    second: kenny_0
+      213: 4933961165993562797
+    second: mansprite_0
   - first:
-      213: -2616167744291572708
-    second: kenny_1
+      213: -4428021645592893765
+    second: mansprite_1
   - first:
-      213: -9151246326518397984
-    second: kenny_2
+      213: -5886223977100907586
+    second: mansprite_2
   - first:
-      213: -5298284591519798419
-    second: kenny_3
+      213: 781986035076558550
+    second: mansprite_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -84,7 +84,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -105,145 +105,93 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: tvOS
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: iOS
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: kenny_0
+      name: mansprite_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 5
         y: 0
-        width: 24
-        height: 24
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a6ad924b957da5460800000000000000
-      internalID: 7231328931971455594
+      spriteID: da25e9a0a83f87440800000000000000
+      internalID: 4933961165993562797
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: kenny_1
+      name: mansprite_1
       rect:
         serializedVersion: 2
-        x: 24
+        x: 28
         y: 0
-        width: 24
+        width: 16
         height: 24
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 331eba910830e4a858afcd9b546b1b47
-      internalID: -2616167744291572708
+      spriteID: bb6e1b426c18c82c0800000000000000
+      internalID: -4428021645592893765
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: kenny_2
+      name: mansprite_2
       rect:
         serializedVersion: 2
-        x: 48
+        x: 50
         y: 0
-        width: 24
+        width: 20
         height: 24
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 1a16f197173624b6b93edcf9cfaa52f9
-      internalID: -9151246326518397984
+      spriteID: ebb6388ba7eef4ea0800000000000000
+      internalID: -5886223977100907586
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: kenny_3
+      name: mansprite_3
       rect:
         serializedVersion: 2
-        x: 72
+        x: 77
         y: 0
-        width: 24
+        width: 15
         height: 24
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: fea58b3294df34388b02e6cbcc90457b
-      internalID: -5298284591519798419
+      spriteID: 6deed00e72c2ada00800000000000000
+      internalID: 781986035076558550
       vertices: []
       indices: 
       edges: []
@@ -252,7 +200,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 47084eddef7be4c65a17685e196bd788
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -262,10 +210,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      kenny_0: 7231328931971455594
-      kenny_1: -2616167744291572708
-      kenny_2: -9151246326518397984
-      kenny_3: -5298284591519798419
+      mansprite_0: 4933961165993562797
+      mansprite_1: -4428021645592893765
+      mansprite_2: -5886223977100907586
+      mansprite_3: 781986035076558550
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

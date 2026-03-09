@@ -1,0 +1,6447 @@
+fileFormatVersion: 2
+guid: 5215d713f27f68246bcb8667d72c20c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5187756463560717334
+    second: tilepackfornow_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 14
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tilepackfornow_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 730
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614f5c7840d9ef740800000000000000
+      internalID: 5187756463560717334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 730
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403e151bbb3b16645be81551eeb2f264
+      internalID: 1833038864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 730
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce73bec4323b8e4f88c1463d06110b8
+      internalID: 1956480179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 730
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e74f63c1fcbaf147950fa3914540251
+      internalID: -1766100213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_4
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 730
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d76d1bdc8b4034f9c1a700055587f6
+      internalID: -1483596007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 730
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b28b5391ba6154a833e7c194f0a239
+      internalID: 1534191051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_6
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 730
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0293f8242b93f4c8ab7c1974d80f0e
+      internalID: 327834746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_7
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 730
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cb561d7a2fba045bfc30271c0853d8
+      internalID: 768509821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_8
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 730
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da239942579f4724aa8e5bff1dc3f7b8
+      internalID: -1028426305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_9
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 730
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fb09c7ec9a06e46834711e170b548a
+      internalID: -848883499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_10
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 730
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967502e46104eea4da0333124e44932a
+      internalID: 165802150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_11
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 730
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d900dfc87e993ea4dad2344eb5960c41
+      internalID: -1362996620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_12
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 730
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6d1d5fec82f5c48abf473678f832e2
+      internalID: 2118596355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_13
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 730
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62de6e91e0862a24eb2656fd0272a69e
+      internalID: 1602946918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_14
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 730
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32e977c29408ae47ad4cd407166a665
+      internalID: 1667112460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_15
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 730
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304456611242ab844b38f45f76fcba64
+      internalID: 39492181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_16
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 730
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541adc086c62dba42803e6aa34c6f9dc
+      internalID: -800660346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_17
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 730
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212c6ed0e96aca24b96ec8f1766bba41
+      internalID: 18568852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_18
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 730
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16cc81ce171d884c9f2a671321b3847
+      internalID: -820658845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_19
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 730
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4ba7429ee74434596cf730f81044ca
+      internalID: -1124968244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_20
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 730
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d76b83367ff1e4bb54f0e21e9f009b
+      internalID: -1661515001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_21
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 730
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4e198ba3b1ba7438db8268543563d3
+      internalID: 1090702990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_22
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 730
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7289eb8a22b6d4899b3f29e1fcd286
+      internalID: -930299557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_23
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 730
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a261ff5c58b39a418cb335fd4367c60
+      internalID: -938173886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_24
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 730
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76197ac0173435c47a395f2396295c99
+      internalID: 663995464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_25
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c441bc8d5eda248bc09dd7a4f166ad
+      internalID: 470021637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dafbb1ae063874385270addf014227
+      internalID: 400639257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_27
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38205492f84699d4883501fef0253c5e
+      internalID: 1817380879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_28
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea73064e100ddb34a8d2e915e99016b9
+      internalID: -333537933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_29
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3fbc7de9eb65c4c90c8a3bba0634f0
+      internalID: -490746511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_30
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8156b440f15ec4285a4a864aaa2577
+      internalID: -1843969099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_31
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf3c3ec93990fa42944ce2c0aa54e77
+      internalID: -1492313630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_32
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c7adeaf18eafe40a3c11620bf5b005
+      internalID: 1332605461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_33
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b27c96ce1007ba4fa525232444c214a
+      internalID: -1579341738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_34
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85eca42d3500078428a3330aaca9597f
+      internalID: -1491749629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_35
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c8c36573717a14d8fd8b89357cdd56
+      internalID: -1548704992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_36
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6557f5bf0a9e0dd47ab0622022d0dca4
+      internalID: 1239450351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_37
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52b431903cc9ca46a9e9b65467aca75
+      internalID: -1705625178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_38
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cda375377b46b4a9dcb0d35131eefa
+      internalID: -1548952285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_39
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447eb02416f8c3b47ab5f44355df2372
+      internalID: 1754213099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_40
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcbd03c97106794e90afd685ac4f3da
+      internalID: -1319084401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_41
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb8716d2c04de74ca6161f78b9f96bb
+      internalID: -1106083181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_42
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d2f2b34ed330e45bf4ccc615e454e9
+      internalID: -1222370314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_43
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4879ef9c526494e8ae1a4385d3ceef
+      internalID: 674921703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_44
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe092d52bf35fc429f6eb91707f90e9
+      internalID: -1045872776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_45
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd170eef47eb0747b89bc859b725042
+      internalID: -356110391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_46
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e54252a4c917f46b3da3b14daeb2d7
+      internalID: 450751561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_47
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3caa2ae4dd38fc749a8173d11163c0a3
+      internalID: 825712782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_48
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3d4a54e09e8c14cb66b84cfb74ab30
+      internalID: 435739324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_49
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dba16b7cd29fb49aa8af4bb5a43607
+      internalID: -240787139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_50
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 590
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de96452d3a4c4e4591a0ec1012b7728
+      internalID: 1785315515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 590
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7ee95114d768b449f745c62a203748
+      internalID: 163628132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_52
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 590
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd29365c6f7d274b832213a74024f74
+      internalID: 450602660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_53
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 590
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb66313b37f9b6418e6431943a14fff
+      internalID: -518951185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_54
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 590
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfdc13685a86214fa79e5fd11af3484
+      internalID: -1513679741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_55
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 590
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9791eea9223a444bdef4315f6785b1
+      internalID: -1052009389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_56
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 590
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e611a2118f970bb46a21633b55340424
+      internalID: 1650599717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_57
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 590
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce0def542c19a444a011d4a9e698af1
+      internalID: -737362238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_58
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 590
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93dbec10f9e28c848bef988194af707a
+      internalID: -1742737973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_59
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 590
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc5ae7af3329564fa20992801d96fec
+      internalID: -233123646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_60
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 590
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ac95074db59b04b9b32cf9584a0be0
+      internalID: -1146381897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_61
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 590
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0265ff3c9eba454e985a4aaf54e0402
+      internalID: -281266733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_62
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 590
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4af0b96d61c624ca33d25115587145
+      internalID: 711947909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_63
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 590
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d96627c86196f742b65ceed69e5a7e4
+      internalID: -835673103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_64
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 590
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0771e016d6d49b4998c339a71770ca7
+      internalID: -462665093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_65
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 590
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331221bf12791724ba601d3d3ba1ed91
+      internalID: -431288798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_66
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 590
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2075bea3e2a3604419a71246f4f9a2f3
+      internalID: -1256360066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_67
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 590
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76615b9bb1b7fc449b3d7966c93681c7
+      internalID: -1651614247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_68
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 590
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644f26e7cf61bd04e86b56d6b21b637e
+      internalID: 701849695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_69
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 590
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08247edc722581e409c63e767283d14c
+      internalID: 463863240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_70
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 590
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ba31a05c1d6544d9e4a9a27e422cc1
+      internalID: -1783424710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_71
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 590
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136a4c473427d3d4ba995e00b455e65f
+      internalID: 689685858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_72
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 590
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df19f78f5beadb4c95d1b1ef9e0ae75
+      internalID: 1086390717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_73
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 590
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fbb1207c4375143b50bafbee41853a
+      internalID: 825451109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_74
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 590
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3aa2655b0f12324786bf4d566bacdb1
+      internalID: -1857640523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_75
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 520
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a281d641b2262f546bcea849bbd0b8b5
+      internalID: -1789367716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_76
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 520
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f57ccb5ec2a2743900e3dbf92b46b8
+      internalID: -466700655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_77
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 520
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b367a434f47479a468bb8b45676fbe61
+      internalID: 244881928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_78
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 520
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2126e07270b244a8c7e92cf0eb3d15
+      internalID: -1473831914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_79
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 520
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eab3b61954230f4bb01dfa87c20848f
+      internalID: -874690220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_80
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 520
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46239a1a53cc64844988d6b12ab8e675
+      internalID: -1416456889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_81
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 520
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aea8729cc4c0d34c86e0c0a53e97c05
+      internalID: -489344594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_82
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 520
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3174db3258cff40bcefb762a6adfde
+      internalID: 1626320915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_83
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 520
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f6263449869004bb7482f77de08b10
+      internalID: -1405446109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_84
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 520
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dd6b927f13ae94e9054edf39ab2d98
+      internalID: -1203633507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_85
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 520
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40e2bff911fa0e4e9953937803077bb
+      internalID: 1452567429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_86
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 520
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab56d3b61525cf448c4473ebf523839
+      internalID: 1547277010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_87
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 520
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e051164004e37d54b91823bad40b0086
+      internalID: 1686189932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_88
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 520
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4915a954622a4474f89610f01a4808dc
+      internalID: -1169955312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_89
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 520
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab0de17289da184d9d6a303377bc984
+      internalID: -1935947581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_90
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 520
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d9bb1eeace33545a7d4c96a7b53387
+      internalID: 2055695951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_91
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 520
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fffd9f4f434e94e96e975b5aa5032a
+      internalID: 920328512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_92
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 520
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9273b0088b477548b195eea6134a0e9
+      internalID: -212450601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_93
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 520
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e777b2c2ad55cce428f360cc7cf317e5
+      internalID: 1500680561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_94
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 520
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4e3f9bbeae7654d9019244df170c1b
+      internalID: 62394031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_95
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 520
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba8dbe468defd543a80dd4e08de626d
+      internalID: 1479301104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_96
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 520
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207d80178fd886f40a0a91de075933a4
+      internalID: 602556002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_97
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 520
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7be053c6de390f4e8175bcf7f838717
+      internalID: -1938231010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_98
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 520
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f087aaff0827614db9d2a0cb5341332
+      internalID: -325247529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_99
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 520
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc32e47c12c20a0468456993cbafecce
+      internalID: -1433594518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_100
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 450
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6c0474e87882445956389390446694
+      internalID: -748699565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_101
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 450
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3867da3deebdd84195bdf213040210e
+      internalID: 577052476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_102
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 450
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc28a614b4981ff479130c9a42c31e85
+      internalID: -2039790552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_103
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 450
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e778b172fcf964980b0a53141a8034
+      internalID: -761721911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_104
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 450
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9862fe5b4940f1448aea5a2ac0160d9a
+      internalID: -1814807027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_105
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 450
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d439bcdcd4e834d84bafb672293165
+      internalID: 961675359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_106
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 450
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b132f8705d219e4fac38358decd23d5
+      internalID: 1443443529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_107
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 450
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c784db096beff2840b6687145452ce0f
+      internalID: -1260242081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_108
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 450
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6c690689e6c4f4c9bd53edadea153b
+      internalID: 600764310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_109
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 450
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f7d805510484f46b04358169f9d8fd
+      internalID: -1837798049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_110
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 450
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49eec40d2b6d024097dd2f204c544b2
+      internalID: 1574085844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_111
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 450
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b0d0c62a3b833458dcb16ac83feefe
+      internalID: -518083219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_112
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 450
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5786971097084740967939b878e047a
+      internalID: -1729521549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_113
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 450
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e225a63c3f60de4fb937baec858c6e2
+      internalID: 1684323805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_114
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 450
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72120ee66703df44a2eef7099a112cf
+      internalID: 982852274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_115
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 450
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2939db6b8cfc4f43bd8d8e361c5592a
+      internalID: 1954595395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_116
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 450
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f195cd56365f3ce4686f4e6d2c081011
+      internalID: -1394462084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_117
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 450
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df2bec8eb2c96b41a782e77f0a4e240
+      internalID: -524401214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_118
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 450
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319b8d93037a71a459d61cccac0325fa
+      internalID: 751871740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_119
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 450
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c5c6638406991448ca9f27c83560cf
+      internalID: -102938875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_120
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 450
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24eef2173a3bea5439933a0753ea1f93
+      internalID: -402782197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_121
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 450
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850fa544c2f025b47a43afd9d07a55fa
+      internalID: 1222287882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_122
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 450
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c58c297e1561d408ffd20bb77eb192
+      internalID: -364982566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_123
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 450
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50edea0b719f7534fb6dc3c0360e9112
+      internalID: 473275150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_124
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 450
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5232eef24ec56b438329e9567de88c8
+      internalID: 907251303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_125
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 380
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785b0bc8d8afa284bb7ffe15911c9556
+      internalID: 1899422136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_126
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 380
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a627b6ffe59b49749b0e01e35c96994a
+      internalID: 1454721396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_127
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 380
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2bc86b38722144f94c842903fa84fb
+      internalID: -2044578247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_128
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 380
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d50be02d9266746a92618cfde4c89b
+      internalID: -1025740571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_129
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 380
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ba51edeaf989340b6562b65d78e0e4
+      internalID: 588971860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_130
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 380
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b02c79ab0214af48999ced54fb4a95e
+      internalID: 1198384459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_131
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 380
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dec6259b7871aa47af21a2fde4a6a28
+      internalID: 1055816301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_132
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 380
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39927c07dd70f346b057d6c0edcf0a7
+      internalID: 1918837958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_133
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 380
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e974936f2e6edb469f7df009c629757
+      internalID: 627729752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_134
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 380
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63586137a2591f42a26a8fcf3b74508
+      internalID: 1401284716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_135
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 380
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6935a41c0cdf71e4dae6ce2140e8435b
+      internalID: 1491552491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_136
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 380
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05066483390996043bcfefb9b6a26295
+      internalID: 1019719407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_137
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 380
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db90f188b894584abf02859d3cd806d
+      internalID: -2118607970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_138
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 380
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c05146068049104185368df8b8f91ed
+      internalID: -583516886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_139
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 380
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ae272b5433ab04090c371517c2afd8
+      internalID: -850039334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_140
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 380
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5beb30e982b4c146ae26b5924a653c1
+      internalID: 676460902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_141
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 380
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63235e588016224c88ed7952125a033
+      internalID: -515564070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_142
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 380
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9f83d0cf8b64d429434ce485bae769
+      internalID: 415597841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_143
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 380
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb13e5c7e338d994fbaf0b5b3b0aca83
+      internalID: -742744019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_144
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 380
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0378530a88c3dd4aa53ab20e51c179a
+      internalID: 1823017082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_145
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 380
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df196212586cf09439ac81c660a850c5
+      internalID: -200831947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_146
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 380
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b210f6a75b720994f9ef96314e852020
+      internalID: 1821551373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_147
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 380
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9eddaf2244f4a140b5c329c923b8cd6
+      internalID: 1810169130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_148
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 380
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07048d8f72ed4b3478f5205d2f634b54
+      internalID: -1459886514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_149
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 380
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5534e6de9646b6a45a1a350db2b922c0
+      internalID: 1823787378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_150
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 310
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3c46e2291140b40902f3473a109c55
+      internalID: -1231940440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_151
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 310
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62302f2cb062aa48b445ebb8b499778
+      internalID: 75808928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_152
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 310
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e7a6ae2f1370c4d87cec5bf3aa9097
+      internalID: 1909551708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_153
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 310
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bbf601dbbdb234ba7214ffef408608
+      internalID: -281142042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_154
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 310
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d981559e915f8b44c9e4709332d0e548
+      internalID: -1739830929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_155
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 310
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914010312d49f6342854a7bf97e96b5c
+      internalID: -1188760084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_156
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 310
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3196b303d92203742b657dd4c5f0bcc9
+      internalID: 1750939468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_157
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 310
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40ed80813891af47aed69b59ea1dfde
+      internalID: 1774446053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_158
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 310
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094c4680a2f1b5d4580b4b3c348a6485
+      internalID: 467507336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_159
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 310
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8210d1bdaa5ebe4896f2507b83154d8
+      internalID: 1723335594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_160
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 310
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1471a2e2d05080429f8132478a1a1bc
+      internalID: 1314009940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_161
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 310
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c799e8dd0e3204996b64628febcaf7
+      internalID: -1701122442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_162
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 310
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed09b4b9cb99f8449fbd53dff989441
+      internalID: -716520007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_163
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 310
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a1c442b05ffbe40a294c7f18dd2dd7
+      internalID: 404389246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_164
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 310
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa94919fc6894834ea66018781749797
+      internalID: -2026735392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_165
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 310
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b47a208797c9a46ab6ff6ff926d5d0
+      internalID: 1734414752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_166
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 310
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a171ab89461574192c5ba86deec62d
+      internalID: -594788053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_167
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 310
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4557704ccd6c9540a884eb4f7a1a00f
+      internalID: 578302817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_168
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 310
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c65a2aa71ea84b4b93dcdc36dbd3dcf
+      internalID: -1793960819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_169
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 310
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ddd26ed43768e47937afb8a7b11755
+      internalID: -600809751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_170
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 310
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c68f5c1fde363479778ef01ba616fc
+      internalID: -29740264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_171
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 310
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e364fcc8cb3a441887570f00d8252c
+      internalID: -179808741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_172
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 310
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d7a787fb62331488d339658f1e5d07
+      internalID: -1298582285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_173
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 310
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da30e87d7b5992d40a0de0d8d8cd4b00
+      internalID: -1228948733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_174
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 310
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d218cc2abde4d4e91831815e223975
+      internalID: -613371227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_175
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 240
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7432e8f885aa284b80e0d7c4f90c82a
+      internalID: 92139473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_176
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29482126caad79489b8979d8c55ea13
+      internalID: -1991495443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_177
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 240
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761723838da52be4abc0191f023a8d95
+      internalID: 80015033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_178
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 240
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0e6ce68d6d75e4ea2abd6444ba6a91
+      internalID: -2101838874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_179
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 240
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249a9fe977594614b920b498e4f7ab76
+      internalID: 755497828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_180
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 240
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81d19f08a671b84cae2da1b13c805e9
+      internalID: 250964314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_181
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 240
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26eb23e011ef0c41bd94c7f2e499563
+      internalID: 324310392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_182
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 240
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b09a474630b54448092bd3360ab997
+      internalID: 1666465063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_183
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 240
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a41a981b30d0dc439a9efce529d66c6
+      internalID: 54900181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_184
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 240
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e774022bb12fc4d4b86581eead3bc7cb
+      internalID: -2052383248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_185
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 240
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6e7e8a572ded94ea3abce09197574b
+      internalID: -767101243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_186
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 240
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7e280d007694c48ac89046a8e87496
+      internalID: -1888665939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_187
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 240
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09e6ba616a75974fa9596c7937cb29d
+      internalID: -179916217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_188
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 240
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202957bc30a9fa744976f31f07d9fbf7
+      internalID: -724154643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_189
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 240
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13890360351e4f34fb9ff2a32dc612c7
+      internalID: -2083691513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_190
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 240
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1c155207800c0458bafc1282b53943
+      internalID: 510818687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_191
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 240
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201a69c08864fed459675d208e5bf048
+      internalID: -788194149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_192
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 240
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b9c544cd061064cb496d81014da0d3
+      internalID: 1253858514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_193
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 240
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbf3654bc24e884ea7a65724cccf8c3
+      internalID: 1033183957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_194
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 240
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72995ebed03d67e45a06cf468463405d
+      internalID: 1152531287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_195
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 240
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5266aa1c38a22c42876580a9fe53dae
+      internalID: 1836491197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_196
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 240
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b0268e6b6b1f943b53c64b4ce9350e
+      internalID: 1900962101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_197
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 240
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7883c95828ab60743b9428ee32eef888
+      internalID: 702179229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_198
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 240
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4bb78da99f7da4da307afeacaf1c7e
+      internalID: -995228506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_199
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 240
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c6dbca8e1e58c499e329d77312c378
+      internalID: -1362185703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_200
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 170
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1b45d4790551945be604247aed24a5
+      internalID: -1775304876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_201
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 170
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d0fa3bd4fc14045a09ac3a7198ecb6
+      internalID: -1774868888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_202
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 170
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c1f35f285c18945a2cd87cc0ffd5c9
+      internalID: 1247781656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_203
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 170
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea907a5bc42d13c46b7e3c0a6bdd0b6d
+      internalID: -1865794142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_204
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 170
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a41d6ff41b15ea47ba96d401f82ce03
+      internalID: 45306502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_205
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 170
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcbb0004d265f644b212011f6ce0d5f
+      internalID: -1079993625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_206
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 170
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93c5b00476bf814dbcd0832d3767f2c
+      internalID: -1418910023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_207
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 170
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8517c899a6745ef4283f60caa62b3888
+      internalID: -726557406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_208
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 170
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6347440199f49d45b435c1bcfb48f7e
+      internalID: 228056582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_209
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 170
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d14d0cc4e4a3146b8378ab8f2ac89c
+      internalID: 1306942187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_210
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 170
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500cf17ff9fa4cf4db5e0367764d8329
+      internalID: 1986666200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_211
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 170
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bb728111d183847b371df096a5cc12
+      internalID: 1491025708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_212
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 170
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc79b611b883aa44997930fedf34fd0
+      internalID: 1402573328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_213
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 170
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaa217361e7c2842a42ba92ae0bdfcf
+      internalID: 256412964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_214
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 170
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e604ff0fe058d90448d8dabf73c904ed
+      internalID: -131590085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_215
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 170
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb4bac4d3d7c92408e46204f7594436
+      internalID: 528767642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_216
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 170
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331fe8a83a805d54996dbe60d60a998f
+      internalID: 110509684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_217
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 170
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d7e9a373c2f9e409249ab132126347
+      internalID: 1530154627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_218
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 170
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a057c481815dc4a8573dcdb33d38b7
+      internalID: -60369915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_219
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 170
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4fde69424e6d646987e97da1cda1ab
+      internalID: -38112217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_220
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 170
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102749aa9912add48baacd2f1d34752d
+      internalID: -871100067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_221
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 170
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab7487e54b66fd4aabffb6b2c2c113a
+      internalID: -822744371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_222
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 170
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170603c30cdcb3e44bae2c789dce21ec
+      internalID: 2055355216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_223
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 170
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871a975bc888e104c939001fa3e250bc
+      internalID: -2035340798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_224
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 170
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5311c11eb992db149bed1c795476202d
+      internalID: -2008719462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_225
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 100
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ade792151c83544390fd969135f7210
+      internalID: 983727883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_226
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 100
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa388053fdbe434faa5eda9dd3e3ae9
+      internalID: 133681253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_227
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 100
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a9f7c71460be948ae10e0566e0d51b
+      internalID: -1092484415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_228
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 100
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a316c44d5552942925e8651d7e48c4
+      internalID: -1392997614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_229
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 100
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e88bf5c82ddd5f49834834836d81ab4
+      internalID: 139728546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_230
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 100
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2721397a9b753b748976dcaa7b01060d
+      internalID: 337583540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_231
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 100
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1b85d7c37439c47b94a4c2a3fca2f6
+      internalID: 389213164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_232
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 100
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bbf8fe57eea9f4992213dc19ae3839
+      internalID: 510360048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_233
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 100
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deec9d6878d5ed04ba13fe0a422c2f71
+      internalID: -1057547555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_234
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 100
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b14ae0ca257f74aaf3936767d4081d
+      internalID: -130934391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_235
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 100
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4d1986e3d75bf44aea9a85ed2ee06c
+      internalID: -275076481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_236
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 100
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08951d150ae48cb4fb734de95d0dd78f
+      internalID: 833741254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_237
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 100
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c5924508d52914abfd1beba1341692
+      internalID: 1836111868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_238
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 100
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78424cab3dd333247a34f7306187cdc1
+      internalID: -1570482283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_239
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 100
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa9da169d22bf74c96ec1baab8f6cc2
+      internalID: -677581315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_240
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 100
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ca3afa64b6a6746a45013fe73e16c8
+      internalID: -96455904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_241
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 100
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597df25288c50db4e83926888afc5ef8
+      internalID: 1214080359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_242
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 100
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61ba4aa028405b4abdf95351d3753c5
+      internalID: -339673243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_243
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 100
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5c6a5162eba98419f71a4cded22f34
+      internalID: -931584633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_244
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 100
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eaff6eac21d9864983d888cec8e20a4
+      internalID: 1794540576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_245
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 100
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1273e14cd378e0b45850c37358350c2b
+      internalID: -1355151276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_246
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 100
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180a066bde0d6e6418b45d86ecd377c4
+      internalID: -2103621341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_247
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 100
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cd849671b3613498453917f6fee8a5
+      internalID: -1996925019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_248
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 100
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e418c7dbc755cb24d80a9fe1a7036498
+      internalID: -1661215815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_249
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 100
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d04ec2c9bcb3d408c18e8894a5738d
+      internalID: 2003835444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_250
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 30
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49331e4b2d7e354eb32e808b7aec13a
+      internalID: 1068252143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_251
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 30
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040b223ff2f431141b72e40297f8064d
+      internalID: -2002511341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_252
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 30
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f73bb3436d12484e81b22d013ad15f2
+      internalID: -2146641517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_253
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 30
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641db1e0e4d7f1144b5ec07e68f73d5c
+      internalID: -656178078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_254
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 30
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa7b2176da970f4c86312f15d8ab0e8
+      internalID: -1017917246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_255
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 30
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8cfed28065bb54eb6a975bc3339ec8
+      internalID: -821856456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_256
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 30
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47a45948f1ce114c89453d111591292
+      internalID: 1449358441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_257
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 30
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddf2549de75d0c4aadc0a66fa664bc3
+      internalID: 840567799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_258
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 30
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3e6509e8f22c642acb8a80d3ca62ce
+      internalID: -1176007839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_259
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 30
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b12fee971f089f468da86ea80093c58
+      internalID: 1951258268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_260
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 30
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9aa28b022fe6c84aa818237584c7c57
+      internalID: -403777740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_261
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 30
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459af30a08acc604d8ed2c8f415bf7b8
+      internalID: -708490063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_262
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 30
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2f8b601aeabde4686d3648291ed86a
+      internalID: 290930960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_263
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 30
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e30744a69357e24c94e50282ace08d9
+      internalID: 1857630572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_264
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 30
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a2225d52aaaf94dbeee91f71688c10
+      internalID: -1383201471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_265
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 30
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8497d9dce42e384458e12436de2201a4
+      internalID: 2021469250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_266
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 30
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23d7093e6ff00e4ab7b0ddd7325db83
+      internalID: -2001603520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_267
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 30
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b5c473cef1bd24fbc9217893dc9239
+      internalID: -1741537660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_268
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 30
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c419bfb662262c43b04767c23bd763c
+      internalID: 553445328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_269
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 30
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f627a0f2d43c89a48b9e4e2cb5bd03a8
+      internalID: 1591773709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_270
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 30
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f478105f4134034f8a36137f1ab56a0
+      internalID: 1809434782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_271
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 30
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec248b074ce099844ba7461e343032d7
+      internalID: -475650843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_272
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 30
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9587f0c22da3046907b187aa94ddb6
+      internalID: 778453662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_273
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 30
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7f5f68cfff89c4d98decd38fb00247
+      internalID: 402956402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilepackfornow_274
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 30
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41fbf9e9e4176248899e83d362f38ee
+      internalID: 1590412929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 17b0564ef7da8954abb3121d08638e62
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":70.0,"y":70.0},"gridSpriteOffset":{"x":10.0,"y":10.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      tilepackfornow_0: 5187756463560717334
+      tilepackfornow_1: 1833038864
+      tilepackfornow_10: 165802150
+      tilepackfornow_100: -748699565
+      tilepackfornow_101: 577052476
+      tilepackfornow_102: -2039790552
+      tilepackfornow_103: -761721911
+      tilepackfornow_104: -1814807027
+      tilepackfornow_105: 961675359
+      tilepackfornow_106: 1443443529
+      tilepackfornow_107: -1260242081
+      tilepackfornow_108: 600764310
+      tilepackfornow_109: -1837798049
+      tilepackfornow_11: -1362996620
+      tilepackfornow_110: 1574085844
+      tilepackfornow_111: -518083219
+      tilepackfornow_112: -1729521549
+      tilepackfornow_113: 1684323805
+      tilepackfornow_114: 982852274
+      tilepackfornow_115: 1954595395
+      tilepackfornow_116: -1394462084
+      tilepackfornow_117: -524401214
+      tilepackfornow_118: 751871740
+      tilepackfornow_119: -102938875
+      tilepackfornow_12: 2118596355
+      tilepackfornow_120: -402782197
+      tilepackfornow_121: 1222287882
+      tilepackfornow_122: -364982566
+      tilepackfornow_123: 473275150
+      tilepackfornow_124: 907251303
+      tilepackfornow_125: 1899422136
+      tilepackfornow_126: 1454721396
+      tilepackfornow_127: -2044578247
+      tilepackfornow_128: -1025740571
+      tilepackfornow_129: 588971860
+      tilepackfornow_13: 1602946918
+      tilepackfornow_130: 1198384459
+      tilepackfornow_131: 1055816301
+      tilepackfornow_132: 1918837958
+      tilepackfornow_133: 627729752
+      tilepackfornow_134: 1401284716
+      tilepackfornow_135: 1491552491
+      tilepackfornow_136: 1019719407
+      tilepackfornow_137: -2118607970
+      tilepackfornow_138: -583516886
+      tilepackfornow_139: -850039334
+      tilepackfornow_14: 1667112460
+      tilepackfornow_140: 676460902
+      tilepackfornow_141: -515564070
+      tilepackfornow_142: 415597841
+      tilepackfornow_143: -742744019
+      tilepackfornow_144: 1823017082
+      tilepackfornow_145: -200831947
+      tilepackfornow_146: 1821551373
+      tilepackfornow_147: 1810169130
+      tilepackfornow_148: -1459886514
+      tilepackfornow_149: 1823787378
+      tilepackfornow_15: 39492181
+      tilepackfornow_150: -1231940440
+      tilepackfornow_151: 75808928
+      tilepackfornow_152: 1909551708
+      tilepackfornow_153: -281142042
+      tilepackfornow_154: -1739830929
+      tilepackfornow_155: -1188760084
+      tilepackfornow_156: 1750939468
+      tilepackfornow_157: 1774446053
+      tilepackfornow_158: 467507336
+      tilepackfornow_159: 1723335594
+      tilepackfornow_16: -800660346
+      tilepackfornow_160: 1314009940
+      tilepackfornow_161: -1701122442
+      tilepackfornow_162: -716520007
+      tilepackfornow_163: 404389246
+      tilepackfornow_164: -2026735392
+      tilepackfornow_165: 1734414752
+      tilepackfornow_166: -594788053
+      tilepackfornow_167: 578302817
+      tilepackfornow_168: -1793960819
+      tilepackfornow_169: -600809751
+      tilepackfornow_17: 18568852
+      tilepackfornow_170: -29740264
+      tilepackfornow_171: -179808741
+      tilepackfornow_172: -1298582285
+      tilepackfornow_173: -1228948733
+      tilepackfornow_174: -613371227
+      tilepackfornow_175: 92139473
+      tilepackfornow_176: -1991495443
+      tilepackfornow_177: 80015033
+      tilepackfornow_178: -2101838874
+      tilepackfornow_179: 755497828
+      tilepackfornow_18: -820658845
+      tilepackfornow_180: 250964314
+      tilepackfornow_181: 324310392
+      tilepackfornow_182: 1666465063
+      tilepackfornow_183: 54900181
+      tilepackfornow_184: -2052383248
+      tilepackfornow_185: -767101243
+      tilepackfornow_186: -1888665939
+      tilepackfornow_187: -179916217
+      tilepackfornow_188: -724154643
+      tilepackfornow_189: -2083691513
+      tilepackfornow_19: -1124968244
+      tilepackfornow_190: 510818687
+      tilepackfornow_191: -788194149
+      tilepackfornow_192: 1253858514
+      tilepackfornow_193: 1033183957
+      tilepackfornow_194: 1152531287
+      tilepackfornow_195: 1836491197
+      tilepackfornow_196: 1900962101
+      tilepackfornow_197: 702179229
+      tilepackfornow_198: -995228506
+      tilepackfornow_199: -1362185703
+      tilepackfornow_2: 1956480179
+      tilepackfornow_20: -1661515001
+      tilepackfornow_200: -1775304876
+      tilepackfornow_201: -1774868888
+      tilepackfornow_202: 1247781656
+      tilepackfornow_203: -1865794142
+      tilepackfornow_204: 45306502
+      tilepackfornow_205: -1079993625
+      tilepackfornow_206: -1418910023
+      tilepackfornow_207: -726557406
+      tilepackfornow_208: 228056582
+      tilepackfornow_209: 1306942187
+      tilepackfornow_21: 1090702990
+      tilepackfornow_210: 1986666200
+      tilepackfornow_211: 1491025708
+      tilepackfornow_212: 1402573328
+      tilepackfornow_213: 256412964
+      tilepackfornow_214: -131590085
+      tilepackfornow_215: 528767642
+      tilepackfornow_216: 110509684
+      tilepackfornow_217: 1530154627
+      tilepackfornow_218: -60369915
+      tilepackfornow_219: -38112217
+      tilepackfornow_22: -930299557
+      tilepackfornow_220: -871100067
+      tilepackfornow_221: -822744371
+      tilepackfornow_222: 2055355216
+      tilepackfornow_223: -2035340798
+      tilepackfornow_224: -2008719462
+      tilepackfornow_225: 983727883
+      tilepackfornow_226: 133681253
+      tilepackfornow_227: -1092484415
+      tilepackfornow_228: -1392997614
+      tilepackfornow_229: 139728546
+      tilepackfornow_23: -938173886
+      tilepackfornow_230: 337583540
+      tilepackfornow_231: 389213164
+      tilepackfornow_232: 510360048
+      tilepackfornow_233: -1057547555
+      tilepackfornow_234: -130934391
+      tilepackfornow_235: -275076481
+      tilepackfornow_236: 833741254
+      tilepackfornow_237: 1836111868
+      tilepackfornow_238: -1570482283
+      tilepackfornow_239: -677581315
+      tilepackfornow_24: 663995464
+      tilepackfornow_240: -96455904
+      tilepackfornow_241: 1214080359
+      tilepackfornow_242: -339673243
+      tilepackfornow_243: -931584633
+      tilepackfornow_244: 1794540576
+      tilepackfornow_245: -1355151276
+      tilepackfornow_246: -2103621341
+      tilepackfornow_247: -1996925019
+      tilepackfornow_248: -1661215815
+      tilepackfornow_249: 2003835444
+      tilepackfornow_25: 470021637
+      tilepackfornow_250: 1068252143
+      tilepackfornow_251: -2002511341
+      tilepackfornow_252: -2146641517
+      tilepackfornow_253: -656178078
+      tilepackfornow_254: -1017917246
+      tilepackfornow_255: -821856456
+      tilepackfornow_256: 1449358441
+      tilepackfornow_257: 840567799
+      tilepackfornow_258: -1176007839
+      tilepackfornow_259: 1951258268
+      tilepackfornow_26: 400639257
+      tilepackfornow_260: -403777740
+      tilepackfornow_261: -708490063
+      tilepackfornow_262: 290930960
+      tilepackfornow_263: 1857630572
+      tilepackfornow_264: -1383201471
+      tilepackfornow_265: 2021469250
+      tilepackfornow_266: -2001603520
+      tilepackfornow_267: -1741537660
+      tilepackfornow_268: 553445328
+      tilepackfornow_269: 1591773709
+      tilepackfornow_27: 1817380879
+      tilepackfornow_270: 1809434782
+      tilepackfornow_271: -475650843
+      tilepackfornow_272: 778453662
+      tilepackfornow_273: 402956402
+      tilepackfornow_274: 1590412929
+      tilepackfornow_28: -333537933
+      tilepackfornow_29: -490746511
+      tilepackfornow_3: -1766100213
+      tilepackfornow_30: -1843969099
+      tilepackfornow_31: -1492313630
+      tilepackfornow_32: 1332605461
+      tilepackfornow_33: -1579341738
+      tilepackfornow_34: -1491749629
+      tilepackfornow_35: -1548704992
+      tilepackfornow_36: 1239450351
+      tilepackfornow_37: -1705625178
+      tilepackfornow_38: -1548952285
+      tilepackfornow_39: 1754213099
+      tilepackfornow_4: -1483596007
+      tilepackfornow_40: -1319084401
+      tilepackfornow_41: -1106083181
+      tilepackfornow_42: -1222370314
+      tilepackfornow_43: 674921703
+      tilepackfornow_44: -1045872776
+      tilepackfornow_45: -356110391
+      tilepackfornow_46: 450751561
+      tilepackfornow_47: 825712782
+      tilepackfornow_48: 435739324
+      tilepackfornow_49: -240787139
+      tilepackfornow_5: 1534191051
+      tilepackfornow_50: 1785315515
+      tilepackfornow_51: 163628132
+      tilepackfornow_52: 450602660
+      tilepackfornow_53: -518951185
+      tilepackfornow_54: -1513679741
+      tilepackfornow_55: -1052009389
+      tilepackfornow_56: 1650599717
+      tilepackfornow_57: -737362238
+      tilepackfornow_58: -1742737973
+      tilepackfornow_59: -233123646
+      tilepackfornow_6: 327834746
+      tilepackfornow_60: -1146381897
+      tilepackfornow_61: -281266733
+      tilepackfornow_62: 711947909
+      tilepackfornow_63: -835673103
+      tilepackfornow_64: -462665093
+      tilepackfornow_65: -431288798
+      tilepackfornow_66: -1256360066
+      tilepackfornow_67: -1651614247
+      tilepackfornow_68: 701849695
+      tilepackfornow_69: 463863240
+      tilepackfornow_7: 768509821
+      tilepackfornow_70: -1783424710
+      tilepackfornow_71: 689685858
+      tilepackfornow_72: 1086390717
+      tilepackfornow_73: 825451109
+      tilepackfornow_74: -1857640523
+      tilepackfornow_75: -1789367716
+      tilepackfornow_76: -466700655
+      tilepackfornow_77: 244881928
+      tilepackfornow_78: -1473831914
+      tilepackfornow_79: -874690220
+      tilepackfornow_8: -1028426305
+      tilepackfornow_80: -1416456889
+      tilepackfornow_81: -489344594
+      tilepackfornow_82: 1626320915
+      tilepackfornow_83: -1405446109
+      tilepackfornow_84: -1203633507
+      tilepackfornow_85: 1452567429
+      tilepackfornow_86: 1547277010
+      tilepackfornow_87: 1686189932
+      tilepackfornow_88: -1169955312
+      tilepackfornow_89: -1935947581
+      tilepackfornow_9: -848883499
+      tilepackfornow_90: 2055695951
+      tilepackfornow_91: 920328512
+      tilepackfornow_92: -212450601
+      tilepackfornow_93: 1500680561
+      tilepackfornow_94: 62394031
+      tilepackfornow_95: 1479301104
+      tilepackfornow_96: 602556002
+      tilepackfornow_97: -1938231010
+      tilepackfornow_98: -325247529
+      tilepackfornow_99: -1433594518
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
